@@ -1,9 +1,13 @@
-import requests
+import os
 from github import Github
 
-# Replace with your GitHub username and the personal access token you created
+# Fetch the token from environment variables
+token = os.getenv("PERSONAL_ACCESS_TOKEN")
+if not token:
+    raise ValueError("GitHub token is not set in the environment variables")
+
+# Replace with your GitHub username
 username = "SyedAbbas6319"
-token = "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"
 
 # Authenticate to GitHub
 g = Github(token)
@@ -20,8 +24,11 @@ for repo in repos:
         projects += f"- **[{repo.name}]({repo.html_url})**: {repo.description}\n"
 
 # Read the existing README.md file
-with open("README.md", "r") as file:
-    readme_content = file.read()
+try:
+    with open("README.md", "r") as file:
+        readme_content = file.read()
+except FileNotFoundError:
+    readme_content = ""
 
 # Find the start and end of the projects section
 start = readme_content.find("### 📚 Projects")
