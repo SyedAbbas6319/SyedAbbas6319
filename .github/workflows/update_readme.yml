@@ -31,7 +31,7 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add README.md
           git commit -m "Updated README with project links"
-          
+
       - name: Push changes
         run: |
           git remote set-url origin https://${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}
