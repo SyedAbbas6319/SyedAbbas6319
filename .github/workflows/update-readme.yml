@@ -2,21 +2,26 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs every Sunday at midnight
+    - cron: "0 0 * * 0"  # Runs every Sunday at midnight
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
+
       - name: Install dependencies
-        run: pip install PyGithub requests
+        run: pip install -r requirements.txt
+
       - name: Update README
-        run: python update_readme.py
         env:
-        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Replace with the actual secret name
+        run: python update_readme.py
