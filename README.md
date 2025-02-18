@@ -1,77 +1,58 @@
-# Hi 👋, I'm Syed Muhammad Abbas
-### A passionate Blockchain and MERN Stack Developer from Pakistan
-
-
----
-
-## 🌟 About Me
-
+#  Hi 👋, I'm Syed Muhammad Abbas  
+### A Passionate Blockchain and MERN Stack Developer from Pakistan  
+## 🌟 About Me  
 I’m a **Blockchain Developer** and **MERN Stack Developer** passionate about building innovative **Web3 solutions**. With a background in **smart contracts** and **decentralized applications (dApps)**, I strive to create seamless user experiences and efficient blockchain applications.
 
-🎓 **BSc in Information Technology** (2020-2024) - University of Education, Lahore  
-💼 **Blockchain Developer @ Dafi Labs** *(December 2024 - Present)*  
-💼 **Web3 Solidity Developer Intern @ Sabasoft** *(June 2024 - October 2024)*  
-💼 **MERN Stack Developer Intern @ TrioSaf Technologies** *(July 2024 - September 2024)*  
+## 🎓 Education 
+   **🔹BSc in Information Technology** (2020-2024) - University of Education, Lahore  
 
----
+## 💼 Experience  
+**💻 Blockchain Developer @ Dafi Labs** *(December 2024 - Present)*  
+  🔹Worked on **Sui, Solana, and Ethereum blockchain projects**  
+  🔹Developed **NFTs, tokens, and smart contracts**  
+  🔹Integrated **blockchain solutions into dApps**  
+  🔹Researched and implemented **Move-based blockchain solutions**  
 
-## 💼 Experience
+**💻 Web3 Solidity Developer Intern @ Sabasoft** *(June 2024 - October 2024)*  
+  🔹Contributed to **Web3 projects** and implemented **Solidity smart contracts**  
+  🔹Worked on **dApp development**, integrating **blockchain with React and Web3.js**  
+  🔹Developed a **token marketplace** and **liquidity pools** for **DeFi functionalities** 
+  
+**💻 MERN Stack Developer Intern @ TrioSaf Technologies** *(July 2024 - September 2024)*  
+  🔹Developed **full-stack applications** using **React, Node.js, Express.js, and MongoDB**  
+  🔹Optimized **state management** and integrated **real-time features**  
+  🔹Implemented **secure authentication and authorization systems**  
 
-### 💻 Blockchain Developer @ Dafi Labs *(December 2024 - Present)*  
-- Worked on **Sui, Solana, and Ethereum blockchain projects**  
-- Developed **NFTs, tokens, and smart contracts**  
-- Integrated **blockchain solutions into dApps**  
-- Researched and implemented **Move-based blockchain solutions**  
+## 🔧 Skills Stack & Tools
 
-### 💻 Web3 Solidity Developer Intern @ Sabasoft *(June 2024 - October 2024)*  
-- Contributed to **Web3 projects** and implemented **Solidity smart contracts**  
-- Worked on **dApp development**, integrating **blockchain with React and Web3.js**  
-- Developed a **token marketplace** and **liquidity pools** for **DeFi functionalities**  
+### ⛓️ Blockchain Development   
+   🔹**Solidity** | **Ethereum** | **Web3.js** | **Hardhat** | **Truffle** | **Base Chain** | **Binance Smart Chain** | **Sui Chain** | **Ether.js** | **Solana SDK**
 
-### 💻 MERN Stack Developer Intern @ TrioSaf Technologies *(July 2024 - September 2024)*  
-- Developed **full-stack applications** using **React, Node.js, Express.js, and MongoDB**  
-- Optimized **state management** and integrated **real-time features**  
-- Implemented **secure authentication and authorization systems**  
+### 🖥️ Full-Stack Development  
+   🔹**Frontend:** React.js, Redux, Tailwind CSS, Material-UI  
+   🔹**Backend:** Node.js, Express.js, MongoDB, MySQL  
+   🔹**Tools:** Git & GitHub, Remix, Ganache, VS Code  
 
----
+## 🚀 Featured Projects  
+🔹 **[Meme Home](https://www.memehome.io/)**  A Base Chain-based token trading platform. Worked on the backend smart contract and interaction, and also contributed a little to the frontend at Sabasoft.  
 
-## 🔧 Tech Stack & Tools
+🔹 **[Nex-pool](https://tiny-melba-588451.netlify.app/)**   Created all the smart contracts and integration for the project and also contributed to the frontend.  
 
-### 🔹 Blockchain  
-🛠 **Solidity** | **Web3.js** | **Hardhat** | **Truffle** | **Ganache** | **Ethereum** | **Binance Smart Chain** | **Sui** | **Solana** | **Move Language**  
+🔹 **[Flare Chat](https://flare-chat.onrender.com/)**  A real-time chat app using WebSockets.    
 
-### 🔹 Full-Stack Development  
-🖥 **Frontend:** React.js, Next.js, Redux, Tailwind CSS, Material-UI  
-🖥 **Backend:** Node.js, Express.js, MongoDB, MySQL  
-🛠 **REST APIs** | **GraphQL** | **Firebase** | **Docker** | **Git & GitHub**
+🔹 **Sui Blockchain Swap Bot Commandline** Built in **JavaScript**, integrated **MovePump Service** and **Cetus Service**, optimized **transaction routing**  
 
----
-
-## 🚀 Featured Projects
-
-- **[Meme Home](https://github.com/your-meme-home-repo)** - BSC-based token trading platform  
-- **[Flare Chat](https://github.com/your-flare-chat-repo)** - Real-time chat app using WebSockets  
-- **[Smart Education Point](https://github.com/your-smart-education-repo)** - Course management system  
-- **Sui Blockchain Swap Bot** - Built using **Cetus Protocol SDK**, integrated **Move Pump**, optimized **transaction routing**  
-
----
 
 ## 📫 Let's Connect!  
-- **Email:** syedabbas6319@gmail.com  
+- **Email:** [syedabbas6319@gmail.com](mailto:syedabbas6319@gmail.com)  
 - **LinkedIn:** [Syed Muhammad Abbas](https://www.linkedin.com/in/syed-muhammad-abbas-7a1201215)  
-- **Phone:** +92 347 0606205  
+- **Phone:** +92 302 0615812  
 
----
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SyedAbbas6319&show_icons=true&locale=en&layout=compact&card_width=320)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAbbas6319&show_icons=true&locale=en&theme=radical&card_width=320)
+## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedAbbas6319&theme=radical)
 
-
 ---
 
-✨ **Fun Fact:** I love exploring cutting-edge blockchain technologies and contributing to open-source projects!
-
-💖 **Thanks for visiting! Let’s connect and collaborate!** 🚀
+✨ **Fun Fact:** I love exploring cutting-edge blockchain technologies and contributing to open-source projects!  
+💖 **Thanks for visiting! Let’s connect and collaborate!** 🚀  
