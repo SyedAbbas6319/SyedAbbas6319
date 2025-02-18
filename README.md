@@ -13,7 +13,7 @@ I’m a **Blockchain Developer** and **MERN Stack Developer** passionate about b
   🔹Integrated **blockchain solutions into dApps**  
   🔹Researched and implemented **Move-based blockchain solutions**  
 
-**💻 Blockchain Developer and MERN Stack Developer Intern @ Sabasoft** *(June 2024 - October 2024)*  
+**💻 Blockchain and MERN Stack Developer Intern @ Sabasoft** *(June 2024 - October 2024)*  
   🔹Contributed to **Web3 projects** and implemented **Solidity smart contracts**  
   🔹Worked on **dApp development**, integrating **blockchain with React and Web3.js**  
   🔹Developed a **token marketplace** and **liquidity pools** for **DeFi functionalities** 
