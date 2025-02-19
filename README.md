@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Syed Muhammad Abbas  
-### A Passionate Blockchain and MERN Stack Developer from Pakistan  
+### A Passionate Blockchain and MERN Stack Developer 
 ## 🌟 About Me  
 I’m a **Blockchain Developer** and **MERN Stack Developer** passionate about building innovative **Web3 solutions**. With a background in **smart contracts** and **decentralized applications (dApps)**, I strive to create seamless user experiences and efficient blockchain applications.
 
