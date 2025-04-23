@@ -4,7 +4,7 @@
 I’m a **Blockchain Developer** and **MERN Stack Developer** passionate about building innovative **Web3 solutions**. With a background in **smart contracts** and **decentralized applications (dApps)**, I strive to create seamless user experiences and efficient blockchain applications.
 
 ## 🎓 Education 
-   **🔹BSc in Information Technology** (2020-2024) - University of Education, Lahore  
+   **🔹BS in Information Technology** (2020-2024) - University of Education, Lahore  
 
 ## 💼 Experience  
 **💻 Blockchain Developer @ Dafi Labs** *(December 2024 - Present)*  
